@@ -16,7 +16,8 @@
 - `poetry install` #Poetry will create a virtual environment locally for current project
 - `poetry run jupyter notebook` # Jupyter notebook install will be created
 ## Running Jupyter Notebook
-- open /main/ANINDITADAS_BoomBikesMODEL_Assignment_07132022.pyb
+- open /main/Linear_Regression/ANINDITADAS_BoomBikesMODEL_Assignment_07132022_1 (1).ipynb
+- https://github.com/Anindita2019/Linear_Regression
 - Notebook has presved graphs
 
 ## Data Location
